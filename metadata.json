@@ -1,0 +1,5 @@
+{
+  "name": "MazyLab image editor",
+  "description": "An application to instantly generate professional classified ads for your products. Upload an image, choose a style, and let Gemini create a stunning ad in seconds, with support for both English and Chinese.",
+  "requestFramePermissions": []
+}
